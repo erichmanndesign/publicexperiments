@@ -9,6 +9,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <base href="<?php echo $_SERVER['HTTP_HOST']; ?>" target="_top">
 
   <!-- https://htmlboilerplates.com/ -->
   <title>Experimental Public | Code Examples</title>
